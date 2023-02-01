@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Adarsh Kumar Tiwari.
+- 🌱 I’m currently learning C/C++/JAVA/python.
+- 👯 I’m looking to collaborate on learning something new.
+- ✨ I'm also a NCC Cadet (Air Wing).
+- 💬 I'm a Student of Bachelor of Computer Application.
+- 📫 How to reach me:-
+  - Gmail:- adarshtiwari7071@gmail.com
+  - leetcode:- AdaRsh7071
 <!--
 **Adarsh7071/AdaRsh7071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
